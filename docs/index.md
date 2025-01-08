@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: "V3-Directives-tools"
+  name: "V-Directives-tools"
   text: ""
-  tagline: 一个持续更新的vue3指令库
+  tagline: 一个持续更新的vue指令库
   actions:
     - theme: brand
       text: 起步

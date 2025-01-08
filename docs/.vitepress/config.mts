@@ -1,9 +1,9 @@
 import { defineConfig } from "vitepress";
-import { docsConfig } from "./src/docs";
+import { docsConfig } from "./src/doc/index";
 import { themeConfig } from "./src/theme";
 import { head } from "./src/head";
 // 配置的中文文档设置
-import { zhConfig } from "./src/configs/zh";
+import { zhConfig } from "./src/config";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   /* 标头配置 */

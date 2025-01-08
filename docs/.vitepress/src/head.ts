@@ -12,7 +12,7 @@ export const head: HeadConfig[] = [
     "meta",
     {
       name: "keywords",
-      content: "vue3, v3-directives-tools"
+      content: "vue, v-directives-tools"
     }
   ]
 ];
