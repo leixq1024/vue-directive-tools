@@ -1,3 +1,4 @@
+// 拖拽滚动
 interface DraggableElement extends HTMLElement {
   isMouseDown?: boolean
   scrollLeft: number
