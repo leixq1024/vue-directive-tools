@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../../node_modules/.pnpm/@arco-design+web-vue@2.56.3_vue@3.5.13/node_modules/@arco-design/web-vue/es/message/style/css.js"],
-  "sourcesContent": ["import \"../../style/index.css\";\nimport \"./index.css\";\n"],
-  "mappings": ";AAAA,OAAO;AACP,OAAO;",
-  "names": []
-}
